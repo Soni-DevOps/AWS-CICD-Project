@@ -1,5 +1,8 @@
 # AWS-CICD-Project
 
+<img width="1020" height="288" alt="image" src="https://github.com/user-attachments/assets/9d8cc9e1-b41a-4069-a3b2-e7222645d632" />
+
+
 ## Set Up GitHub Repository
 
 The first step in our CI journey is to set up a GitHub repository to store our Python application's source code. If you already have a repository, feel free to skip this step. Otherwise, let's create a new repository on GitHub by following these steps:
